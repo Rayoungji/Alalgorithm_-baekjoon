@@ -8,6 +8,7 @@ import java.util.Stack;
 public class Num2 {
     public static void main(String arg[]) {
         String[] id_list = {"A B C D", "A D", "A B D", "B D"};
+        solution(id_list,2);
         System.out.print( solution(id_list,2));
     }
 

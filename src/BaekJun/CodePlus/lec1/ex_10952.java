@@ -1,4 +1,4 @@
-package BaekJun.CodePlus.lecture1;
+package BaekJun.CodePlus.lec1;
 
 import java.util.Scanner;
 
